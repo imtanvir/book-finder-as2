@@ -1,0 +1,76 @@
+{
+  "bookList": [
+    {
+      "id": 1,
+      "name": "Eloquent JavaScript",
+      "author": "Marijn Haverbeke",
+      "rating": 4,
+      "price": 30,
+      "published": 2018,
+      "image": "https://eloquentjavascript.net/img/cover.jpg"
+    },
+    {
+      "id": 2,
+      "name": "You Don't Know JS (book series)",
+      "author": "Kyle Simpson",
+      "rating": 4.5,
+      "price": 25,
+      "published": 2015,
+      "image": "https://m.media-amazon.com/images/I/71mKvD89oEL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "rating": 4.8,
+      "price": 30,
+      "published": 2008,
+      "image": "https://m.media-amazon.com/images/I/511j6cza5bL.jpg"
+    },
+    {
+      "id": 4,
+      "name": "JavaScript: The Definitive Guide",
+      "author": "David Flanagan",
+      "rating": 4.7,
+      "price": 50,
+      "published": 2020,
+      "image": "https://static1.eboighar.com/thumbimages/Books/book_31762022-06-04_1654334081.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript",
+      "author": "David Herman",
+      "rating": 4.6,
+      "price": 35,
+      "published": 2013,
+      "image": "https://m.media-amazon.com/images/I/71SNusdCaFL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Secrets of the JavaScript Ninja",
+      "author": "John Resig and Bear Bibeault",
+      "rating": 4.5,
+      "price": 40,
+      "published": 2013,
+      "image": "https://images.manning.com/264/352/resize/book/a/b85f344-edd7-4833-adf3-d98878088441/resig.png"
+    },
+    {
+      "id": 7,
+      "name": "JavaScript: The Good Parts 2",
+      "author": "Douglas Crockford",
+      "rating": 4.8,
+      "price": 30,
+      "published": 2009,
+      "image": "https://m.media-amazon.com/images/S/aplus-media/vc/16f658b0-46cd-4d9f-bc93-c8a9b8eb7098._SL300__.png"
+    },
+    {
+      "id": 8,
+      "name": "You Don't Know JS 2 (book series)",
+      "author": "Kyle Simpson",
+      "rating": 4.5,
+      "price": 26,
+      "published": 2016,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1457542606i/25136217.jpg"
+    }
+  ]
+}

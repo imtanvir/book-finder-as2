@@ -1,3 +1,29 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* override css style  */
+
+.h-\[200px\] {
+    height: 200px !important;
+}
+
+.w-\[200px\] {
+    width: 200px !important;
+}
+
+.lg\:h-\[250px\] {
+    height: 250px !important;
+}
+
+@media (min-width: 1024px) {
+    .lg\:h-\[250px\] {
+        height: 250px !important;
+    }
+}
+
+@media (min-width: 1024px) {
+    .lg\:w-\[250px\] {
+        width: 250px !important;
+    }
+}
